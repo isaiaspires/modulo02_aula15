@@ -11,8 +11,9 @@ void main() {
   //Atividade 02 - Pomodoro Task
   // runApp(const PomodoroTask());
 
-  // runApp(const AsyncBetApp());
-
   //Atividade 03 - Try/Catch
   // runApp(const TryCatch());
+
+  //Atividade 04 - Async Bet
+  // runApp(const AsyncBetApp());
 }
